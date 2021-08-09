@@ -9,3 +9,4 @@
 +src-git freifunk https://github.com/freifunk/openwrt-packages.git;openwrt-19.07
 +src-git passwall https://github.com/xiaorouji/openwrt-passwall;main
 \ No newline at end of file
++src-git OpenAppFilter https://github.com/destan19/OpenAppFilter.git;master
